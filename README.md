@@ -4,4 +4,3 @@
 
 目前有 bubble sort、quick sort
 
-會陸陸續續更新不同種類的排序演算法
